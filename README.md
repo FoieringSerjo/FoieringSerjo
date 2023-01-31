@@ -1,6 +1,9 @@
-### Hi there 👋
+### Hi there 🇮🇱
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoieringSerjo&show_icons=true&theme=aura)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoieringSerjo&show_icons=true&&hide=stars,contribs&theme=aura)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoieringSerjo&layout=compact&hide=css,html,scss,handlebars,vue&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FoieringSerjo&repo=FoieringSerjo)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
 <!--
 **FoieringSerjo/FoieringSerjo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
