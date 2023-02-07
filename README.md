@@ -1,6 +1,6 @@
 ### Hi there 🇮🇱
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoieringSerjo&show_icons=true&&hide=stars,contribs&theme=aura)
+![Foiering's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoieringSerjo&show_icons=true&&hide=stars,contribs&theme=aura)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoieringSerjo&layout=compact&hide=css,html,scss,handlebars,vue&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FoieringSerjo&repo=FoieringSerjo)](https://github.com/anuraghazra/github-readme-stats) -->
 
