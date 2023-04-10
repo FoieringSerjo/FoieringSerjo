@@ -6,7 +6,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foieringserjo&show_icons=true&locale=en&layout=compact&hide=stars,contribs&theme=aura" alt="foieringserjo" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foieringserjo&show_icons=true&hide=css,html,scss,handlebars,vue&locale=en&theme=aura" alt="foieringserjo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foieringserjo&show_icons=true&hide=CSS,HTML,scss,handlebars,vue&locale=en&theme=aura" alt="foieringserjo" /></p>
 
 <!-- <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> -->
 <!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> -->
