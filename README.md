@@ -18,3 +18,5 @@
     </p>
 </details>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=foieringserjo&show_icons=true&locale=en&layout=compact&hide=stars,contribs&theme=aura" alt="foieringserjo" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=foieringserjo&show_icons=true&hide=CSS,HTML,scss,handlebars,vue&locale=en&theme=aura" alt="foieringserjo" /></p>
