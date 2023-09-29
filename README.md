@@ -4,7 +4,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=solidity,js,nodejs,ts,ppython,docker,mongodb,tailwind,react,github,stackoverflow" />
+    <img src="https://skillicons.dev/icons?i=solidity,js,nodejs,ts,py,docker,mongodb,tailwind,react,github,stackoverflow" />
   </a>
 </p>
 <!-- [![My Skills](https://skillicons.dev/icons?i=solidity,js,nodejs,ts,docker,mongodb,tailwind,react,github,stackoverflow)](https://skillicons.dev) -->
